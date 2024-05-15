@@ -71,10 +71,10 @@ Extreme Programming (XP) is an agile methodology that places emphasis on several
    10. Webcam (when doing on PC)
 
 ## USE CASE DIAGRAM
-![USE CASE DIAGRAM](https://github.com/thisway1/Detection-Hand-Sign-Language-Python.github.io/blob/main/usecaseDiagram.png)
+![USE CASE DIAGRAM](https://github.com/thisway1/Detection-Hand-Sign-Language-Python/blob/main/Use-Case-Diagram.png)
 
 ## SWIM LANE DIAGRAM
-![SWIM LANE DIAGRAM](https://github.com/thisway1/Detection-Hand-Sign-Language-Python.github.io/blob/main/Swim%20Lane%20Diagram.png)
+![SWIM LANE DIAGRAM](https://github.com/thisway1/Detection-Hand-Sign-Language-Python/blob/main/Swim-Lane-Diagram.png)
 
 
    
